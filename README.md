@@ -33,7 +33,25 @@ TWTW is a comprehensive social networking platform developed by our team using H
 
 - **Messaging System:** Users can send and receive messages, facilitating direct communication and enhancing user engagement.
 
-    <img width="500" alt="a"  src="https://github.com/user-attachments/assets/c5684ef7-84d7-4da5-a8c2-dc9068221634">
+    <img width="300" alt="a"  src="https://github.com/user-attachments/assets/0acdcce5-09ba-48e5-99cc-9fef24fa305d">
+
+    
+
+- **Interactive Engagement:** Users can comment on and like posts, fostering a sense of community and encouraging interaction among members.
+- **Intuitive Interface:** TWTW is designed with a focus on a visually appealing and intuitive user interface, ensuring that users can navigate the site easily and enjoy a seamless experience.
+
+## Learning Outcomes:
+Through the development of TWTW, our team gained valuable experience in web development, focusing on:
+- **Layout Design:** Understanding the principles of designing an attractive and functional layout.
+- **User Interaction:** Learning how to create interactive elements that enhance user experience using JavaScript.
+- **Database Management:** Acquiring skills in database management to effectively store, retrieve, and manage user data and interactions.
+
+## Contributors
+#### SAHEL Bouchra
+#### HAGGOUD MANAL
+#### HOUMAIDI Abdoulkarim
+#### EL AMARI Youssef
+#### M'HIFED Zineb
 
 
   
