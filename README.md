@@ -6,5 +6,7 @@ TWTW is a comprehensive social networking platform developed by our team using H
 
 ## Key Features:
 - User Profiles: Users can create personal profiles to showcase their interests and share content with others.
+  <img width="700" alt="a"  src="https://github.com/user-attachments/assets/9538c10c-7300-4856-93b5-96119f83bee7">
+
 
 
